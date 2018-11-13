@@ -1,0 +1,16 @@
+{
+  "name": "cbi",
+  "description": "Compare Bussines Information",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
